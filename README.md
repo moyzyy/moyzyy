@@ -32,6 +32,12 @@ A sovereign, decentralized messaging client designed for the era of mass surveil
 
 ---
 
+![](https://raw.githubusercontent.com/MoyzyTheGoat/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/MoyzyTheGoat/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
+![](https://raw.githubusercontent.com/MoyzyTheGoat/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/MoyzyTheGoat/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
 ### 📊 System Status
 
 ```json
@@ -42,8 +48,3 @@ A sovereign, decentralized messaging client designed for the era of mass surveil
   "hiring": "Open to high-impact cryptographic collaborations"
 }
 
-![](https://raw.githubusercontent.com/MoyzyTheGoat/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/MoyzyTheGoat/github-stats/master/generated/overview.svg#gh-light-mode-only)
-
-![](https://raw.githubusercontent.com/MoyzyTheGoat/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/MoyzyTheGoat/github-stats/master/generated/languages.svg#gh-light-mode-only)
