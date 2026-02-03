@@ -30,6 +30,9 @@ A sovereign, decentralized messaging client designed for the era of mass surveil
 ![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=for-the-badge&logo=tauri&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
+(https://github.com/MoyzyTheGoat/mygithubprofilestats/blob/master/generated/overview.svg)
+
+
 ---
 
 ![](https://raw.githubusercontent.com/MoyzyTheGoat/github-stats/master/generated/overview.svg#gh-dark-mode-only)
